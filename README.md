@@ -12,3 +12,9 @@ HTML website, Import a photo of the world map with buttons of a location, The bu
 
 Expected Outcomes:
 The goal is to create at least 10 buttons on the top 10 tallest buildings, Might not reach the 10 buttons, Small errors on the button’s location
+
+Outcomes:
+50 buttons were placed, The format was not visually pleasing but it was decent
+
+Based my wesbite on this link: 
+https://www.skyscrapercenter.com/buildings 
